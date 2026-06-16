@@ -24,11 +24,11 @@ def send_console_alert(critical_devices):
     
     for device in critical_devices:
         print(f"""
-  📷 Device   : {device['name']}
-  📍 Location : {device['location']}
-  ⚠️  Status   : {device['status']}
-  🔁 Offline  : {device['offline_count']} consecutive checks
-  🕐 Since    : {device['timestamp']}
+   Device   : {device['name']}
+   Location : {device['location']}
+    Status   : {device['status']}
+   Offline  : {device['offline_count']} consecutive checks
+   Since    : {device['timestamp']}
         """)
     print("=" * 50)
 
@@ -42,7 +42,7 @@ def generate_alert_summary(health_score, offline_devices, critical_devices):
     else:
         level = "🔴 CRITICAL"
     
-    print(f"\n📊 ALERT SUMMARY")
+    print(f"\n ALERT SUMMARY")
     print(f"  Status Level  : {level}")
     print(f"  Health Score  : {health_score}%")
     print(f"  Offline Devices : {len(offline_devices)}")
