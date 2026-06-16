@@ -1,0 +1,14 @@
+[
+    {
+        "timestamp": "2026-06-16 15:37:53",
+        "event_type": "FORBIDDEN",
+        "details": "Access denied to endpoint: https://api.verkada.com/cameras/v1/devices",
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-06-16 15:37:54",
+        "event_type": "FORBIDDEN",
+        "details": "Access denied to endpoint: https://api.verkada.com/access/v1/doors",
+        "severity": "HIGH"
+    }
+]
