@@ -233,14 +233,11 @@ python main.py
 \## About Me
 
 
-
-I'm Sanjana Nuguri — a cybersecurity professional with an MS in  Cybersecurity from the University of North Texas. My background is in SOC analysis, incident 
-
-response, and security tooling. This project sits at the intersection of that background and a genuine interest in how physical security infrastructure is managed 
-
-at scale.
-
-
+I'm Sanjana Nuguri — a cybersecurity professional with an MS in 
+Cybersecurity from the University of North Texas. My background is 
+in SOC analysis, incident response, and security tooling. This project 
+sits at the intersection of that background and a genuine interest in 
+how physical security infrastructure is managed at scale.
 
 SC-200 | ISC2 CC   
 
